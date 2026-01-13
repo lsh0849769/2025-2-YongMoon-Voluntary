@@ -1,0 +1,2 @@
+https://www.pygame.org/docs/
+pygame 공홈
